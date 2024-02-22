@@ -1,0 +1,4 @@
+#Un estudiante debe realizar su proceso de matricula teniendo en cuenta lo siguiente:
+#Monto: ?
+
+var_nombreStr = input('Nombre')
